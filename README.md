@@ -1,4 +1,4 @@
-# github
+# Nuxt GitHub Pages
 
 > This page is build using Nuxt.js
 
